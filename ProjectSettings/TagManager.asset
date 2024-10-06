@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Herbi
+  - Karni
   layers:
   - Default
   - TransparentFX
@@ -11,8 +13,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Herbi
+  - Karni
   - 
   - 
   - 
@@ -38,6 +40,21 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BgEnvi
+    uniqueID: 945466389
+    locked: 0
+  - name: Bg
+    uniqueID: 3955009089
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Weapons
+    uniqueID: 1534273267
+    locked: 0
+  - name: Unit
+    uniqueID: 3217659343
+    locked: 0
+  - name: Ground
+    uniqueID: 534949521
     locked: 0
